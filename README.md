@@ -1,4 +1,7 @@
+![image](https://github.com/user-attachments/assets/790a3446-a6a0-4c51-bf57-e96eafdc99ac)
 # Educonnect
+
+https://educonnect-frontend-xoy8.onrender.com
  EduConnect is a full-stack web application that tracks teachers’ daily schedules and classroom locations, allowing students to view availability and book appointments. It is built using the MERN stack with a focus on real-time scheduling and teacher-student interaction.
 # Education Web3 Backend
 
@@ -53,3 +56,13 @@ npm start
 - `POST /api/appointments` - Create a new appointment
 - `PUT /api/appointments/:id/status` - Update appointment status
 - `DELETE /api/appointments/:id` - Delete appointment 
+
+![image](https://github.com/user-attachments/assets/7c1e341c-5175-4270-b416-88f0a69d18eb)
+
+![image](https://github.com/user-attachments/assets/02d4cdd7-3794-4ada-aa5d-1bd3f052493a)
+
+![image](https://github.com/user-attachments/assets/1ce82298-bdfb-45cb-a16f-2c46b59ef2da)
+
+![image](https://github.com/user-attachments/assets/4e6a5fda-db26-4a11-a4b0-e21d863b78da)
+
+
